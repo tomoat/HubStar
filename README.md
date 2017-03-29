@@ -1,6 +1,6 @@
-# hubstar
+# HubStar
 
-> A Vue.js project
+> Github Star management for Desktop
 
 ## Build Setup
 
